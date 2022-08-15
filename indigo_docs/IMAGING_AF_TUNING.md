@@ -1,4 +1,4 @@
-# INDIGO Imager Agent - Autofocus Tunning Guide
+# INDIGO Imager Agent - Autofocus Tuning Guide
 
 Revision: 11.22.2021 (draft)
 
